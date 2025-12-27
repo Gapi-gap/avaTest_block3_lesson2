@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Gapi-gap/avaTest_block3_lesson2/actions/workflows/gradle.yml/badge.svg)](https://github.com/Gapi-gap/avaTest_block3_lesson2/actions/workflows/gradle.yml)
